@@ -168,6 +168,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJICALEU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SIMA2025\Design Rule Check - SIMA_PCB_2025.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
